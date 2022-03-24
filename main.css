@@ -1,0 +1,17 @@
+
+#right{
+    fill:rgba(0, 213, 255, 0.758);
+}
+
+#left{
+    fill:rgba(255, 0, 166, 0.491);
+}
+
+#swirl{
+    transform-origin: center;
+}
+	.st0{fill:none;}
+	.st1{fill:#662A18;stroke:#662A18;stroke-width:0.5524;stroke-miterlimit:10;}
+	.st2{font-family:'BigCaslon-Medium';}
+	.st3{font-size:382.6508px;}
+	.st4{fill:#9A4422;}
